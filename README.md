@@ -2,6 +2,9 @@ C#-MySql-ile-Yapilacaklar-Uygulamas
 
 C# ile hazırlanmış MySql veri tabanı Kullanılarak  Yapilacaklar  Masaustu Uyglaması
 
+## Giriş Bilgileri
+Username:test
+Password:123456
 
 ## Girs
 
